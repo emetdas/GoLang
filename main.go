@@ -13,6 +13,7 @@ func main()  {
 	// Number-start 
 		var inTerger int = 3020
 	// Number-end 
+	fmt.Print(inTerger)
 	fmt.Println(inTerger + 20)
 }
 
